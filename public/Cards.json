@@ -1,0 +1,147 @@
+[
+  {
+    "movie_name": "Inception",
+    "image_url": "https://i.ibb.co/02C8DS8/card1.png",
+    "video_url": "https://www.youtube.com/watch?v=qSu6i2iFMO0"
+  },
+  {
+    "movie_name": "The Dark Knight",
+    "image_url": "https://i.ibb.co/Xkd6nmn/card2.png",
+    "video_url": "https://www.youtube.com/watch?v=OSKvaWwwKdU"
+  },
+  {
+    "movie_name": "Interstellar",
+    "image_url": "https://i.ibb.co/QPXTx5M/card3.png",
+    "video_url": "https://www.youtube.com/watch?v=PE2YZhcC4NY"
+  },
+  {
+    "movie_name": "The Matrix",
+    "image_url": "https://i.ibb.co/QMbCztg/card4.png",
+    "video_url": "https://www.youtube.com/watch?v=0HY6QFlBzUY"
+  },
+  {
+    "movie_name": "Avatar",
+    "image_url": "https://i.ibb.co/1GQQ0zK/card5.png",
+    "video_url": "https://www.youtube.com/watch?v=0HY6QFlBzUY"
+  },
+  {
+    "movie_name": "The Avengers",
+    "image_url": "https://i.ibb.co/YX3zs3P/card6.png",
+    "video_url": "https://www.youtube.com/watch?v=umU0UJdZv3I"
+  },
+  {
+    "movie_name": "Jurassic Park",
+    "image_url": "https://i.ibb.co/q7GB9S7/card7.png",
+    "video_url": "https://www.youtube.com/watch?v=k0lyUzdRgFs"
+  },
+  {
+    "movie_name": "Titanic",
+    "image_url": "https://i.ibb.co/S6cgdH9/card8.png",
+    "video_url": "https://www.youtube.com/watch?v=qSu6i2iFMO0"
+  },
+  {
+    "movie_name": "The Lord of the Rings: The Return of the King",
+    "image_url": "https://i.ibb.co/xXWxqVj/card9.png",
+    "video_url": "https://www.youtube.com/watch?v=PE2YZhcC4NY"
+  },
+  {
+    "movie_name": "Sample Movie 1",
+    "image_url": "https://i.ibb.co/Jj2BW9z/p-DWn-D11b-Vq-SUPd-Bt8-Q028oz-Gs-QC-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=qSu6i2iFMO0"
+  },
+  {
+    "movie_name": "Sample Movie 2",
+    "image_url": "https://i.ibb.co/wcNhQNw/91z5-IHcq-GWmh8od-Tn-Kc-Mz-WDrs-ZK-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=OSKvaWwwKdU"
+  },
+  {
+    "movie_name": "Sample Movie 3",
+    "image_url": "https://i.ibb.co/yk4SJDx/Ak59-Y9bzykm-V0w-Aiw-Ksqrb-ORDBo-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=PE2YZhcC4NY"
+  },
+  {
+    "movie_name": "Sample Movie 4",
+    "image_url": "https://i.ibb.co/0BxkSNJ/d1-Yv-Sc5-Aur38rh-L0-WJXt25o-VIOY-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=0HY6QFlBzUY"
+  },
+  {
+    "movie_name": "Sample Movie 5",
+    "image_url": "https://i.ibb.co/LdW80xN/d-FFk-F9631-XXPjb06s-JCNmvm6kih-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=0HY6QFlBzUY"
+  },
+  {
+    "movie_name": "Sample Movie 6",
+    "image_url": "https://i.ibb.co/nDC2tp9/image-2024-08-16-T141230-105-185x278.png",
+    "video_url": "https://www.youtube.com/watch?v=umU0UJdZv3I"
+  },
+  {
+    "movie_name": "Sample Movie 7",
+    "image_url": "https://i.ibb.co/1zywFNN/p-Afw-OC6-Eh41-Sc-TZCSKBt-Dc-IXVa-U-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=k0lyUzdRgFs"
+  },
+  {
+    "movie_name": "Sample Movie 8",
+    "image_url": "https://i.ibb.co/M8q08X2/q3ik-ABa-ZER72y-SCVNij-FONFTC3-I-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=qSu6i2iFMO0"
+  },
+  {
+    "movie_name": "Sample Movie 9",
+    "image_url": "https://i.ibb.co/LZR4FdC/Screenshot-3566-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=PE2YZhcC4NY"
+  },
+  {
+    "movie_name": "Sample Movie 10",
+    "image_url": "https://i.ibb.co/9wkk1bF/6-PCnx-KZZIVRan-Wb710p-Np-YVk-CSw-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=0HY6QFlBzUY"
+  },
+  {
+    "movie_name": "Sample Movie 11",
+    "image_url": "https://i.ibb.co/kHt3Qnd/9-GGs-GGHb-S4-I3t2xh06wm-Hc-O8-UCL-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=umU0UJdZv3I"
+  },
+  {
+    "movie_name": "Sample Movie 12",
+    "image_url": "https://i.ibb.co/YBWQP0m/b9dhbim85kb-Pd0m-K6-JYs-VSe2-SLI-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=k0lyUzdRgFs"
+  },
+  {
+    "movie_name": "Sample Movie 13",
+    "image_url": "https://i.ibb.co/1LvkY00/d-DBTUSl3t-Rs-Oe-KC1j-Zug-BSFHy9-I-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=qSu6i2iFMO0"
+  },
+  {
+    "movie_name": "Sample Movie 14",
+    "image_url": "https://i.ibb.co/jMN4GmP/d-Esu-QOZwda-FAVL26-Rjgjw-Gl9j7m-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=PE2YZhcC4NY"
+  },
+  {
+    "movie_name": "Sample Movie 15",
+    "image_url": "https://i.ibb.co/88SsN3K/gy-KPC5-UR6j-XTSr-QJll-Ctrx-X83eo-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=0HY6QFlBzUY"
+  },
+  {
+    "movie_name": "Sample Movie 16",
+    "image_url": "https://i.ibb.co/nstrQwK/Image-2024-08-29-T012310-246-185x278.png",
+    "video_url": "https://www.youtube.com/watch?v=umU0UJdZv3I"
+  },
+  {
+    "movie_name": "Sample Movie 17",
+    "image_url": "https://i.ibb.co/6w4xnV1/qy-T2xw9-FBx-Hl-NXQYsu-NCu8-T7-Rbo-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=k0lyUzdRgFs"
+  },
+  {
+    "movie_name": "Sample Movie 18",
+    "image_url": "https://i.ibb.co/TrkbBBy/vl-Rhgfrf-Bz-JKje-Gwo-Uj-Tv-Swk8gi-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=qSu6i2iFMO0"
+  },
+  {
+    "movie_name": "Sample Movie 19",
+    "image_url": "https://i.ibb.co/0nkFbJD/y-CEXJDJs-KT6-Df-LC9-Yd9-Xp-DDLVG7-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=PE2YZhcC4NY"
+  },
+  {
+    "movie_name": "Sample Movie 20",
+    "image_url": "https://i.ibb.co/PQwbRZw/8nv-XNx-LY6omub-IBI1-Hp-QG6m-YCe4-185x278.jpg",
+    "video_url": "https://www.youtube.com/watch?v=0HY6QFlBzUY"
+  }
+]

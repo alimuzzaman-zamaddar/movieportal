@@ -1,0 +1,72 @@
+/* Base footer styles */
+.netflix-footer {
+    background-color: #141414;
+    color: #757575;
+    padding: 40px;
+    text-align: left;
+  }
+  
+  .footer-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .footer-row {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .footer-row a {
+    color: #757575;
+    margin-bottom: 8px;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .footer-row a:hover {
+    color: #fff;
+  }
+  
+  /* Footer bottom section */
+  .footer-bottom {
+    margin-top: 20px;
+    border-top: 1px solid #333;
+    padding-top: 20px;
+    text-align: center;
+  }
+  
+  .footer-bottom p {
+    color: #757575;
+    font-size: 13px;
+  }
+  
+  /* Responsive styles for small devices */
+  @media (max-width: 768px) {
+    .footer-container {
+      grid-template-columns: repeat(2, 1fr);
+      padding: 20px;
+    }
+  
+    .footer-row a {
+      font-size: 12px;
+    }
+  }
+  
+  /* Responsive styles for extra-small devices */
+  @media (max-width: 480px) {
+    .footer-container {
+      grid-template-columns: 1fr;
+    }
+  
+    .footer-row a {
+      font-size: 12px;
+    }
+  
+    .footer-bottom p {
+      font-size: 11px;
+    }
+  }
+  

@@ -1,0 +1,104 @@
+/* Container for the ultra-modern card list */
+.ultra-modern-container {
+    padding: 20px;
+    background-color: #141414;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+  }
+  
+  /* Title styling */
+  .ultra-modern-title h2 {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  /* Infinite sliding effect for the cards */
+  .ultra-modern-card-list {
+    display: flex;
+    animation: slide 20s linear infinite;
+    gap: 20px;
+    white-space: nowrap;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .ultra-modern-card-list.paused {
+    animation-play-state: paused; /* Stop animation on hover */
+  }
+  
+  /* Keyframe for infinite sliding */
+  @keyframes slide {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  /* Styling for each card */
+  .ultra-modern-card {
+    position: relative;
+    display: inline-block;
+    width: 350px;
+    height: 200px;
+    flex-shrink: 0;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .ultra-modern-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: filter 0.3s ease, transform 0.3s ease;
+  }
+  
+  /* Hover effect to show the title and blur the image */
+  .ultra-modern-card:hover img {
+    filter: blur(4px);
+  }
+  
+  .movie-title {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    right: 0;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+  }
+  
+  .ultra-modern-card:hover .movie-title {
+    opacity: 1;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .ultra-modern-card {
+      width: 300px;
+      height: 170px;
+    }
+  
+    .movie-title {
+      font-size: 20px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .ultra-modern-card {
+      width: 250px;
+      height: 140px;
+    }
+  
+    .movie-title {
+      font-size: 18px;
+    }
+  }
+  
